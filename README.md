@@ -11,9 +11,9 @@ Changes made to code
 HTML 
   1. fixed <link> element to link to css style sheets
   2. changed <title> tag 
-  3. changed <div> tag to <header> tag 
-  4. changed <div> tag to <aside> tag 
-  5. changed <div> tag to <footer> tag 
+  3. changed 'div' tag to 'header' tag 
+  4. changed 'div' tag to 'aside' tag 
+  5. changed 'div' tag to 'footer' tag 
   6. fixed <a> internal link for 'Search Engine Optimization'
   
   
